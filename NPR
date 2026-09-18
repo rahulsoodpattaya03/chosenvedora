@@ -1,0 +1,11 @@
+<span class="absolute top-2 right-2 bg-amber-600 text-white text-[9px] font-black px-2 py-0.5 y-auto space-y-3 text-xs font-medium"><div class="bg-slate-900 border border-slate-800 p-3 rounded-2xl text-gray-200">Sawadee Ka! 🙏 Welcome to Pattaya Namaste executive concierge support.</div></div>
+<div id="chatMessages" class="flex-1 p-4 overflow-y-auto space-y-3 text-xs font-medium"><div class="bg-slate-900 border border-slate-800 p-3 rounded-2xl text-gray-200">Sawadee Ka! 🙏 Welcome to Pattaya Namaste executive concierge support.</div></div>
+
+<div>
+<div id="chatMessages" class="flex-1 p-4 overflow-y-auto space-y-3 text-xs font-medium">
+    <div class="bg-slate-900 border border-slate-800 p-3 rounded-2xl text-gray-200">
+        Sawadee Ka! 🙏 Welcome to Namaste Pattaya Reservations executive concierge support. 
+        <br><br>
+        Chat with us here, or message us directly on WhatsApp/Phone at: <a href="tel:+66YOURNUMBER" class="text-cyan-400 font-bold underline">+66 YOUR NUMBER</a>
+    </div>
+</div>
